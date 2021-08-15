@@ -8,9 +8,5 @@ Usage:
 4. Pilih tombol "prediksi"
 
 
-Required packages:
-pip install tensorflow
-pip install numpy
-pip install pillow
-pip install opencv-python
-pip install tk
+Required packages: (pip install method)
+tensorflow, numpy, pillow, opencv-python, and install tk
