@@ -9,4 +9,4 @@ Usage:
 
 
 Required packages: (pip install method)
-tensorflow, numpy, pillow, opencv-python, and tk
+tensorflow, numpy, image (since pip install pillow is deprecated), opencv-python, and tk
