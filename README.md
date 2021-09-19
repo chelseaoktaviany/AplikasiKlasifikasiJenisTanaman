@@ -9,4 +9,5 @@ Usage:
 
 
 Required packages: (pip install method)
+Version of python is used: 3.6.1
 tensorflow, numpy, image (since pip install pillow is deprecated), opencv-python, and tk
