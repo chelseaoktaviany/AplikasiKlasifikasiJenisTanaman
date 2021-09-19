@@ -79,7 +79,6 @@ tensorboard-plugin-wit==1.8.0
 tensorflow==2.4.1
 tensorflow-datasets==4.2.0
 tensorflow-estimator==2.4.0
-tensorflow-gpu==2.4.1
 tensorflow-metadata==0.28.0
 termcolor==1.1.0
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
