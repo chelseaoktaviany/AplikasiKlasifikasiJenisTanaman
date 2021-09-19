@@ -109,7 +109,6 @@ dependencies:
     - tensorflow-metadata==0.28.0
     - termcolor==1.1.0
     - tf-estimator-nightly==2.5.0.dev2021022101
-    - tf-nightly-gpu==2.5.0.dev20210221
     - tornado==6.1
     - tqdm==4.59.0
     - traitlets==4.3.3
