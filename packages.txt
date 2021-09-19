@@ -73,7 +73,6 @@ scipy==1.5.4
 seaborn==0.11.1
 six==1.15.0
 split-folders==0.4.3
-tb-nightly==2.5.0a20210221
 tensorboard==2.4.1
 tensorboard-data-server==0.3.0
 tensorboard-plugin-wit==1.8.0
@@ -83,8 +82,6 @@ tensorflow-estimator==2.4.0
 tensorflow-gpu==2.4.1
 tensorflow-metadata==0.28.0
 termcolor==1.1.0
-tf-estimator-nightly==2.5.0.dev2021022101
-tf-nightly-gpu==2.5.0.dev20210221
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 tornado==6.1
 tqdm==4.59.0
